@@ -7,6 +7,5 @@ I'm a Full Stack Developer passionate about building efficient and scalable web 
 - 🌱 I’m always learning and exploring new technologies  
 - 📫 How to reach me: mjdurandar16@gmail.com
 - ⚡ Fun fact: I love solving complex problems and automating things!
-- 🔗 **Check my portfolio:** [mjdurandar.dev](http://mjdurandar.dev)  
 
 Let's build something awesome together! 🚀  
